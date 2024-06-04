@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/g-rppl/g-rppl.r-universe.dev
 	branch = HEAD
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
 [submodule "movetrack"]
 	path = movetrack
 	url = https://github.com/g-rppl/movetrack
