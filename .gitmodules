@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/g-rppl/g-rppl.r-universe.dev
 	branch = HEAD
+[submodule "movetrack"]
+	path = movetrack
+	url = https://github.com/g-rppl/movetrack
