@@ -7,4 +7,4 @@
 	url = https://github.com/stan-dev/cmdstanr
 [submodule "movetrack"]
 	path = movetrack
-	url = https://github.com/g-rppl/movetrack
+	url = https://codeberg.org/g-rppl/movetrack
