@@ -5,6 +5,7 @@
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
+	branch = *release
 [submodule "movetrack"]
 	path = movetrack
 	url = https://codeberg.org/g-rppl/movetrack
